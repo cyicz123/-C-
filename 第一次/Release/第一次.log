@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Documents\SynologyDrive\Git\C++实验作业\下学期\The-cpp-practice\第一次\p1.h(89,34): warning C4244: “+=”: 从“double”转换到“long”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  第一次.vcxproj -> D:\Documents\SynologyDrive\Git\C++实验作业\下学期\The-cpp-practice\第一次\Release\第一次.exe
