@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Documents\SynologyDrive\Git\C++实验作业\下学期\The-cpp-practice\第五次\main.cpp(11,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  第五次.vcxproj -> D:\Documents\SynologyDrive\Git\C++实验作业\下学期\The-cpp-practice\第五次\Debug\第五次.exe
