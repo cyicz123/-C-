@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Documents\SynologyDrive\Git\C++实验作业\下学期\The-cpp-practice\第十一次\main.cpp(9,48): warning C4305: “参数”: 从“double”到“const float”截断
+D:\Documents\SynologyDrive\Git\C++实验作业\下学期\The-cpp-practice\第十一次\main.cpp(10,45): warning C4305: “参数”: 从“double”到“const float”截断
+  第十一次.vcxproj -> D:\Documents\SynologyDrive\Git\C++实验作业\下学期\The-cpp-practice\第十一次\Debug\第十一次.exe
