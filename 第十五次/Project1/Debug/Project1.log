@@ -1,0 +1,5 @@
+﻿  main_2.cpp
+D:\Documents\SynologyDrive\Git\C++实验作业\下学期\The-cpp-practice\第十五次\Project1\main_2.h(33,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\SynologyDrive\Git\C++实验作业\下学期\The-cpp-practice\第十五次\Project1\main_2.h(34,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\SynologyDrive\Git\C++实验作业\下学期\The-cpp-practice\第十五次\Project1\main_2.h(35,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\Documents\SynologyDrive\Git\C++实验作业\下学期\The-cpp-practice\第十五次\Project1\Debug\Project1.exe
